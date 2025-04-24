@@ -69,11 +69,11 @@ endmodule
 ![436893172-0c245dab-2bdc-430c-bc75-2806b2c9a0c2](https://github.com/user-attachments/assets/a8a0682d-8e0d-488f-a4c9-151a699b3640)
 
 **RTL**
-
+**Timing Diagram**
 
 ![fc9ff82c-6504-4a10-b125-dda35a9364ee](https://github.com/user-attachments/assets/34036003-5790-4699-a9a0-967d1cca35a4)
 
-**Timing Diagram**
+
 
 **Result:**
 
