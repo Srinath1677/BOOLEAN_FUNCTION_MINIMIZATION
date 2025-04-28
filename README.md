@@ -59,8 +59,8 @@ endmodule
 
 **RTL realization**
 
+![image](https://github.com/user-attachments/assets/28312a06-5594-4fb1-8769-89c0abb8b6fc)
 
-![c90e6d22-7f9d-46a1-8770-2d86891860f2](https://github.com/user-attachments/assets/b1ea7bf2-03c1-4557-8091-d75db3cf4c7d)
 
 
 **Output:**
@@ -70,8 +70,8 @@ endmodule
 
 **RTL**
 **Timing Diagram**
+![image](https://github.com/user-attachments/assets/3b618ea0-ff44-4c72-a1f6-0d2c1999630d)
 
-![fc9ff82c-6504-4a10-b125-dda35a9364ee](https://github.com/user-attachments/assets/34036003-5790-4699-a9a0-967d1cca35a4)
 
 
 
