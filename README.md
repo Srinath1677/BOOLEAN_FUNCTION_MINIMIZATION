@@ -15,8 +15,8 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+A combinational circuit is a circuit in which the output depends on the present combination of inputs. Combinational circuits are made up of logic gates. The output of each logic gate is determined by its logic function. Combinational circuits can be made using various logic gates, such as AND gates, OR gates, and NOT gates.
 
-**Logic Diagram**
 
 **Procedure**
 
@@ -68,9 +68,9 @@ endmodule
 
 ![436893172-0c245dab-2bdc-430c-bc75-2806b2c9a0c2](https://github.com/user-attachments/assets/a8a0682d-8e0d-488f-a4c9-151a699b3640)
 
-**RTL**
 **Timing Diagram**
-![image](https://github.com/user-attachments/assets/3b618ea0-ff44-4c72-a1f6-0d2c1999630d)
+![image](https://github.com/user-attachments/assets/4ef7c18c-d820-419b-9903-f2f740ee818b)
+
 
 
 
