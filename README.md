@@ -39,7 +39,7 @@ Developed by: Srinath YG
 RegisterNumber:212224230274
 
 ```verilog
-module exp_2(A,B,C,D,F1);
+module EXPERIMENT2(A,B,C,D,F1);
 
 input A,B,C,D;
 output F1;
